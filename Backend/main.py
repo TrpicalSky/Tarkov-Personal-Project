@@ -1,4 +1,4 @@
-from server import Server
+from jobs.server import Server
         
 app = Server()
 
